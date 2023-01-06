@@ -5,7 +5,7 @@ elastic_colli.exe has only elastic colli
 
 elasticGravity.exe makes balls attract each other
 
-Release.exe with full feature (could be effect by editing options.txt) 
+Release.exe with full feature (could be affect by editing options.txt) 
 ## =========================Control=========================
 
 #WASD to walk ,ESC to close
@@ -22,7 +22,7 @@ There's a option.txt stored mutiple option num,you can customize them if u want
 Mouse will be locked to the center of the window 
 The small green ball is the center of the mass of the all spheres
 ## ========================Options.txt========================
-
+```
 GravityValue: 60.0                
 GravityConstant: 0.2              
 ElectricConstant: 2.0             
@@ -30,4 +30,5 @@ MaxSphereScale: 2.0
 MinSphereScale: 1.0               
 MaxSphereInitiateSpeed: 1.0       
 MinSphereInitiateSpeed: 1.0      
-SpeedYScaleWhenHitGround: 0.6     
+SpeedYScaleWhenHitGround: 0.6
+```
