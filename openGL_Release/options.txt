@@ -1,0 +1,7 @@
+GravityValue: 1.2
+GravityConstant: 0.2
+ElectricConstant: 2.0
+MaxSphereScale: 2.0
+MinSphereScale: 1.0
+MaxSphereInitiateSpeed: 1.0
+MinSphereInitiateSpeed: 1.0
