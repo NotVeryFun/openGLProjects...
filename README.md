@@ -23,11 +23,11 @@ Mouse will be locked to the center of the window
 The small green ball is the center of the mass of the all spheres
 ========================Options.txt========================
 
-GravityValue: 60.0                //determines Gravity     
-GravityConstant: 0.2              //The Ball to Ball attraction Constant 
-ElectricConstant: 2.0             //The ElectricBall to ElectricBall attraction Constant
-MaxSphereScale: 2.0               //The maximum Sphere Scale when spawning Ball 
-MinSphereScale: 1.0               //The minimum Sphere Scale when spawning Ball 
-MaxSphereInitiateSpeed: 1.0       //The maximum initiate sphere speed scale when spawning Ball
-MinSphereInitiateSpeed: 1.0       //The minimum initiate sphere speed scale when spawning Ball
-SpeedYScaleWhenHitGround: 0.6     //When the Sphere hit the ground how much Velocity it'll loss 
+GravityValue: 60.0                
+GravityConstant: 0.2              
+ElectricConstant: 2.0             
+MaxSphereScale: 2.0              
+MinSphereScale: 1.0               
+MaxSphereInitiateSpeed: 1.0       
+MinSphereInitiateSpeed: 1.0      
+SpeedYScaleWhenHitGround: 0.6     
