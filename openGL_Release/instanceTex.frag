@@ -4,6 +4,7 @@ out vec4 FragColor;
 in vec3 crntPos;
 in vec3 Normal;
 in vec2 texCoord;
+in vec3 Color;
 
 uniform sampler2D tex0;
 
@@ -11,7 +12,7 @@ uniform vec4 lightColor;
 uniform vec3 lightPos;
 uniform vec3 camPos;
 
-uniform vec3 Color;
+
 //the struct of PointLight
 struct PointLight {    
     vec3 position;
